@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MMHKRb4HJLgG2fX4Q2M9AeLhCUNuubffDvVwd0HWuMiPQrWgxeRgiY4m5v9p0nGy1JD/fABSoBh7s1s4LAFm1Q==",
+  "success": true,
+  "projectFilePath": "D:\\projetos_em_dotNetFramework\\pizzaPlanet\\pizzaPlanet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Belispetre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Luiz Belispetre\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Luiz Belispetre\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Luiz Belispetre\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Luiz Belispetre\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Luiz Belispetre\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
